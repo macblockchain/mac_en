@@ -1,4 +1,4 @@
-## MAC∂‡‘≠¡¥ºÚΩÈ
+## About MAC
 
 <a href="http://www.macblock.io"><img src="http://www.macblock.io/skins/pc/img/banner_title.png"></a>
 
@@ -21,7 +21,7 @@ The MAC team worked with several universities and provincial supercomputing cent
 
 1.[Local Signature Tool](1.LocalSignatureTool.md)
 
-2.[Update of Algorithm ](2.UpdateofAlgorithm .md)
+2.[Update of Algorithm](2.UpdateofAlgorithm.md)
 
 3.[My Contract](3.MyContract.md)
 
