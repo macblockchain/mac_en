@@ -6,18 +6,18 @@ MAC multiple atomic chain measured over 10 million TPS can reach the realization
 
 The Multiple Atomic Chain is a high-speed cross-chain asset circulation underlying public chain being built by multi-chain consensus, multi-chain parallelism, multi-atomic hybrid consensus mechanism and cross-chain atomic operating system. The MAC Multiple Atomic Chain has been certified by the CFCA with a measurement TPS OF 13 to 15 million per second. It is characterized by over 10 million TPS that supports the decentralized commercial application in many industries to realize business development application.
 
-MAC create the most efficient underlying development platform with a -13140-hour continuous development,
+MAC created the most efficient underlying development platform with a -13140-hour continuous development,
 
 MAC is committed to building a brand-new and efficient development system with an ecological underlying development model. 
 
-MAC create a world-class blockchain infrastructure conveniently with a high-performance development platform ;
+MAC created a world-class blockchain infrastructure conveniently with a high-performance development platform ;
 
 Authoritative certification, opening-up cooperation, win-win future
 
 The MAC team worked with several universities and provincial supercomputing centers to rearrange and test the main network. The experimental speed exceeded 10 million TPS, exceeding all the published experimental speed data in the world. The version is already open to the common user. The MAC provides different GUI versions, including Linux, Windows and OS, to provide a better test experience to users. Friends around the world and advance are welcome. We also hope that more partners to reach a win-win future.
 
 
-以下为MAC目前已经公开的相关工具接口
+The following are the API tools that MAC has now disclosed
 
 1.[Local Signature Tool](1.LocalSignatureTool.md)
 
@@ -35,4 +35,4 @@ The MAC team worked with several universities and provincial supercomputing cent
 
 8.[Tracing Ledger](8.TracingLedger.md)
 
-更多接口工具正在陆续开放中，详细工具请访问[DEVELOPMENT CENTER](http://macwt.sdgl.com.cn/dmember/v2.html)
+More API tools are opening up. For more information, please visit[DEVELOPMENT CENTER](http://macwt.sdgl.com.cn/dmember/v2.html)
